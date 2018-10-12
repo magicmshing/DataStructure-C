@@ -1,4 +1,3 @@
-@[TOC]
 
 # DataStructure-C
 DataStructure-C
@@ -13,7 +12,7 @@ It's all about the basics
 
 ### sample 1.1 Output one-line character
 
-[Output one-line character](./C-program/First_Chapter/sample1.1.cpp)
+[Output one-line character](./C-program/Chapter_one/sample1.1.cpp)
 
 The main is 
 
@@ -23,12 +22,12 @@ printf("This is C program.\n");
 
 ### sample 1.2 
 
-[Find the sum of two integers](./C-program/First_Chapter/sample1.2.cpp)
+[Find the sum of two integers](./C-program/Chapter_one/sample1.2.cpp)
 
 
 ### sample 1.3
 
-[Find the larger of the two integers](./C-program/First_Chapter/sample1.3.cpp)
+[Find the larger of the two integers](./C-program/Chapter_one/sample1.3.cpp)
 
 ### practice 5
 
@@ -39,4 +38,14 @@ V e r y  g o o d !
 **************************
 ```
 
-[the code](./C-program/First_Chapter/practice_5.cpp)
+[the code](./C-program/Chapter_one/practice_5.cpp)
+
+## Chatper 2 Algorithm
+
+> algorithm + datastructure = program
+
+### sample 2.1 
+
+求 1\*2\*3\*4\*5.
+
+[code](./C-program/Chapter_two/sample2.1.cpp)
